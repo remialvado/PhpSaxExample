@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offres>
+  <offre monster-id="1">
+	<titre>Developpeur Web</titre>
+	<page>http://www.monster.fr/offre/1</page>
+	<motcles>
+		<motcle>developpement</motcle>
+		<motcle>PHP</motcle>
+		<motcle>Symfony</motcle>
+		<motcle>Web</motcle>
+		<motcle>Javascript</motcle>
+	</motcles>
+  </offre>
+  <offre monster-id="2">
+	<titre>Developpeur Backend</titre>
+	<page>http://www.monster.fr/offre/2</page>
+	<motcles>
+		<motcle>developpement</motcle>
+		<motcle>Java</motcle>
+		<motcle>Python</motcle>
+		<motcle>Agile</motcle>
+		<motcle>Lucene</motcle>
+	</motcles>
+  </offre>
+  <offre monster-id="3">
+	<titre>Developpeur Mobile</titre>
+	<page>http://www.monster.fr/offre/3</page>
+	<motcles>
+		<motcle>developpement</motcle>
+		<motcle>Objective-C</motcle>
+		<motcle>Java</motcle>
+		<motcle>Android</motcle>
+		<motcle>Responsive</motcle>
+	</motcles>
+  </offre>
+  <offre monster-id="4">
+	<titre>Scrum Master</titre>
+	<page>http://www.monster.fr/offre/4</page>
+	<motcles>
+		<motcle>Agile</motcle>
+		<motcle>Facilitateur</motcle>
+		<motcle>Coaching</motcle>
+		<motcle>Retrospective</motcle>
+		<motcle>Project Management</motcle>
+	</motcles>
+  </offre>
+</offres>
