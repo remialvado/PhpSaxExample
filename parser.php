@@ -1,32 +1,5 @@
 <?php
 
-/*
-<offres>
-  <offre monster-id="1">
-	<titre>Développeur Web</titre>
-	<page>http://www.monster.fr/offre/1</page>
-	<motcles>
-		<motcle>developpement</motcle>
-		<motcle>PHP</motcle>
-		<motcle>Symfony</motcle>
-		<motcle>Web</motcle>
-		<motcle>Javascript</motcle>
-	</motcles>
-  </offre>
-  <offre monster-id="2">
-	<titre>Développeur Backend</titre>
-	<page>http://www.monster.fr/offre/2</page>
-	<motcles>
-		<motcle>developpement</motcle>
-		<motcle>Java</motcle>
-		<motcle>Python</motcle>
-		<motcle>Agile</motcle>
-		<motcle>Lucene</motcle>
-	</motcles>
-  </offre>
-</offres>
- */
-
 class Job
 {
 	public $title;
